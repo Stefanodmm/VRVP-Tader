@@ -12,8 +12,6 @@ El Perfil de Volumen de Rango Visible (VRVP, por sus siglas en inglés) es una h
 ### ¿Cómo funciona el VRVP?
 El VRVP se representa gráficamente como un histograma horizontal donde cada barra representa un rango de precios y su altura indica el volumen de transacciones que se produjo en ese rango.
 
-[Image of Volume Profile Histogram]
-
 **Elementos clave del VRVP:**
 
 * **Punto de Control (POC):** El nivel de precio con el mayor volumen, que representa el precio promedio al que se realizaron las transacciones.
@@ -38,5 +36,3 @@ El VRVP se representa gráficamente como un histograma horizontal donde cada bar
 **En resumen,** el Perfil de Volumen de Rango Visible es una herramienta poderosa que puede ayudar a los traders a tomar decisiones más informadas al proporcionar una visión clara de la distribución del volumen en diferentes niveles de precios. Sin embargo, como cualquier otro indicador técnico, debe utilizarse con precaución y en combinación con otros análisis.
 
 **¿Te gustaría profundizar en algún aspecto específico del VRVP o aprender cómo utilizarlo en una estrategia de trading concreta?**
-
-**Nota:** Si deseas ver ejemplos de cómo se aplica el VRVP en gráficos reales, puedes solicitarlo y te proporcionaré imágenes ilustrativas.
