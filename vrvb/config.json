@@ -1,0 +1,14 @@
+{
+    "trading": {
+        "symbol": "BTCUSDT",
+        "interval": "1h",
+        "lookback_period": 100
+    },
+    "vrvp": {
+        "num_niveles": 24,
+        "va_porcentaje": 70
+    },
+    "actualizacion": {
+        "intervalo_segundos": 5
+    }
+}
