@@ -34,3 +34,16 @@ El VRVP se representa gráficamente como un histograma horizontal donde cada bar
 * **Retraso:** El VRVP se basa en datos históricos, por lo que puede no anticipar movimientos de mercado muy rápidos.
 
 **En resumen,** el Perfil de Volumen de Rango Visible es una herramienta poderosa que puede ayudar a los traders a tomar decisiones más informadas al proporcionar una visión clara de la distribución del volumen en diferentes niveles de precios. Sin embargo, como cualquier otro indicador técnico, debe utilizarse con precaución y en combinación con otros análisis.
+
+## Opiniones al respecto de la capacidad de la funcionalidad del programa:
+
+### Opinion de allegados que viven del trading:
+* No cren que solo este indicador sea un eficaz por ella sola por:*
+  - Tardan mucho en sacar una probable entrada
+  - Se basa unicamente en la cantidad de poder compra/venta, lo que puede causar contradicciones en una estrategia que solo use este indicador para detectar entradas ya que el movimiento de la grafica no solo depende de estas fuerzas.
+  - Los puntos minimos que marca para una entrada suelen ser techos o pisos, lo que quiere decir que es muy dificil obtener una nueva entrada unicamente con la estratejia.
+
+## Verciones del programa
+### Vercion 1:
+-Solo cuenta con la indicacion de si esta por encima o por debajo de los puntos minimos para usarlos como entradas.
+### Vercion 2:
