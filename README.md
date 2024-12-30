@@ -39,11 +39,12 @@ El VRVP se representa gráficamente como un histograma horizontal donde cada bar
 
 ### Opinion de allegados que viven del trading:
 * No cren que solo este indicador sea un eficaz por ella sola por:*
-* Tardan mucho en sacar una probable entrada
-* Se basa unicamente en la cantidad de poder compra/venta, lo que puede causar contradicciones en una estrategia que solo use este indicador para detectar entradas ya que el movimiento de la grafica no solo depende de estas fuerzas.
-* Los puntos minimos que marca para una entrada suelen ser techos o pisos, lo que quiere decir que es muy dificil obtener una nueva entrada unicamente con la estratejia.
+  - Tardan mucho en sacar una probable entrada
+  - Se basa unicamente en la cantidad de poder compra/venta, lo que puede causar contradicciones en una estrategia que solo use este indicador para detectar entradas ya que el movimiento de la grafica no solo depende de estas fuerzas.
+  - Los puntos minimos que marca para una entrada suelen ser techos o pisos, lo que quiere decir que es muy dificil obtener una nueva entrada unicamente con la estratejia.
 
-## Versiones del programa
-### Version 1:
+## Verciones del programa
+### Vercion 1:
 * Solo cuenta con la indicacion de si esta por encima o por debajo de los puntos minimos para usarlos como entradas.
-### Version 2:
+### Vercion 2:
+* agrego un sistema de acercamiento del precio a las areas de interes en donde 0 es muy lejos 10 es en el precio del area de interes y 11 es por encima del area superior o por debajo del area inferior
