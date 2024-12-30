@@ -47,4 +47,6 @@ El VRVP se representa gráficamente como un histograma horizontal donde cada bar
 ### Vercion 1:
 * Solo cuenta con la indicacion de si esta por encima o por debajo de los puntos minimos para usarlos como entradas.
 ### Vercion 2:
-* agrego un sistema de acercamiento del precio a las areas de interes en donde 0 es muy lejos 10 es en el precio del area de interes y 11 es por encima del area superior o por debajo del area inferior
+* Agrego un sistema de acercamiento del precio a las areas de interes en donde 0 es muy lejos 10 es en el precio del area de interes y 11 es por encima del area superior o por debajo del area inferior
+### Vercion 3:
+* Agregue una espera de temporalidad para volver a analizar y soltar una orden, asi evitar que se repita. Recomiendo agregar tiempo a gusto por encima de la temporalidad. 
